@@ -1,5 +1,6 @@
 # PRAC1_REGOE
 Repositorio con el código y las respuesta a la Práctica 1 de la asignatura Tipología y ciclo de vida de los datos. 
+Se trata de la obtención de un conjunto de datos público, alojado en una base de datos que conforman el Registro General de Operadores Ecológicos (REGOE) mediante técnicas de web Scraping. 
 Curso 2021/2022
 
 Realizado por: 
