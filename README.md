@@ -8,6 +8,9 @@ Sara Belén Ramos González – 42221784V
 Daniel Jesús Cruz Garzón – 77158362D
 
 En el repositorio se encuentran los archivos:
+
 COMPLETAR.pdf con la memoria de la prácticas
+
 Codigo/COMPLETAR.py con el código usado como solución de la práctica
+
 README.md con la información del repositorio.
