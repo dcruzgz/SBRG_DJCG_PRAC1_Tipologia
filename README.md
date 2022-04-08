@@ -10,7 +10,7 @@ Daniel Jesús Cruz Garzón – 77158362D
 
 En el repositorio se encuentran los archivos:
 
-COMPLETAR.pdf con la memoria de la prácticas
+prac1_Memoria.pdf con la memoria de la prácticas
 
 Codigo/COMPLETAR.py con el código usado como solución de la práctica
 
