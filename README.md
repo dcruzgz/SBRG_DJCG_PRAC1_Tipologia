@@ -8,7 +8,7 @@ Se trata de la obtención de un conjunto de datos público, alojado en una base 
   <br>Daniel Jesús Cruz Garzón – 77158362D </i> 
 </div>
 <div><br><b>En el repositorio se encuentran los archivos:</b>
-<br>- prac1_Memoria.pdf con la memoria de la prácticas
-<br>- Codigo/COMPLETAR.py con el código usado como solución de la práctica
-<br>- README.md con la información del repositorio.
+<br>- prac1_Memoria.pdf -> con la memoria de la prácticas
+<br>- Selenium_Andalucia_completo.ipynb -> con el código usado como solución de la práctica
+<br>- README.md -> con la información del repositorio.
 </div>
