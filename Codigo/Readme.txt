@@ -1,2 +1,0 @@
-Poner código y requerimientos. 
-
