@@ -4,8 +4,8 @@ Se trata de la obtención de un conjunto de datos público, alojado en una base 
 
 <b>Curso 2021/2022</b>
 <div><b>Realizado por: </b>
-<i> <br>Sara Belén Ramos González – 42221784V
-  <br>Daniel Jesús Cruz Garzón – 77158362D </i> 
+<i> <br>Sara Belén Ramos González 
+  <br>Daniel Jesús Cruz Garzón </i> 
 </div>
 <div><br><b>En el repositorio se encuentran los archivos:</b>
 <br>- prac1_Memoria.pdf -> con la memoria de la prácticas
